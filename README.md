@@ -1,4 +1,4 @@
-# Python Pizza Delivery Program
+# Python Pizza Delivery Program 🍕
 
 This is a beginner-level Python project from the "100 Days of Code: The Complete Python Pro Bootcamp" course. 
 The program simulates a simple pizza ordering system where users can choose size and toppings. 
